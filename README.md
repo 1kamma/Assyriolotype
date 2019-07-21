@@ -1,5 +1,6 @@
 # Assyriolotype
 
+Use Alt+F1 to show this help
 a== For Typing â
 a-- For Typing ā
 e== For Typing ê
