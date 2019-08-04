@@ -42,9 +42,9 @@ s== For Typing š
 
 h== For Typing ḫ
 
-Alt+9 For Typing ⸢ (upper squre Left Half Brecet)
+Alt+9 For Typing ⸢ (upper squareLeft Half Brecet)
 
-Alt+0 For Typing ⸣ (upper squre Right Half Brecet)
+Alt+0 For Typing ⸣ (upper square Right Half Brecet)
 
 g== For Typing ĝ
 
