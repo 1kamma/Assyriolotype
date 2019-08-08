@@ -48,6 +48,8 @@ Alt+0 For Typing ⸣ (upper square Right Half Brecet)
 
 g== For Typing ĝ
 
+s,, For ṣ́
+
 Shift Delete to Exit
 
-This Program is what some people at the Hebrew University of Jerusalem in Israel, got, under the name "Akkadian", which created and updated at the 21/10/2018. This is a Free Software, and if you Have Suggestions, Please Contact with me at: bennysa.cauly@mail.huji.ac.il
+This Program is what some people at the Hebrew University of Jerusalem in Israel, got, under the name "Akkadian", which created and updated at the 21/10/2018. This is a Free Software, and if you Have Suggestions, Please Contact with me at: benny.saret@mail.huji.ac.il
