@@ -4,7 +4,7 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #SingleInstance Force
 +Delete::ExitApp
-!F1::msgbox,type a== to â`na-- to ā`n`ne== to ê`ne-- to ē`ni== to î`ni-- to ī`nu== to û`nu-- to û`na2 to á`na3 to à`ne2 to é`ne3 to è`ni2 to í`ni3 to ì`nu2 to ú`nu3 to ù`nt.. to ṭ`ns.. to ṣ`ns== to š`nh== to ḫ`nAlt+9 to ⸢`nAlt+0 to ⸣`ng== to ĝ`no2 to ó`no 2: to o2`no  2 to o 2`no3 to ò`no 3 to o3`no  3 to o 3`no-- to ō`no== to ô`nShift Delete to Exit
+!F1::msgbox,type a== to â`na-- to ā`n`ne== to ê`ne-- to ē`ni== to î`ni-- to ī`nu== to û`nu-- to û`na2 to á`na3 to à`ne2 to é`ne3 to è`ni2 to í`ni3 to ì`nu2 to ú`nu3 to ù`nt.. to ṭ`ns.. to ṣ`ns== to š`nh== to ḫ`nAlt+9 to ⸢`nAlt+0 to ⸣`ng== to ĝ`nAlt+, to ʿ`ns;s to ß`no;; to ö`na;; to ä`ne;; to ë`ni;; to ï`nu;; to ü`nAlt+. to ʾ`nShift Delete to Exit
 :?*:a==::â
 :?*:e--::ē
 :?*:e==::ê
@@ -89,6 +89,16 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :?*:s 2::s2
 :?*:s  2::s 2
 :?*:g==::ĝ
+!vkBC::Send,{U+02BF}
+!vkBE::Send,{U+02BES}
+!9::Send,{U+2e22}
+!0::Send,{U+2e23}
+:?*:s;s::ß
+:?*:o;;::ö
+:?*:a;;::ä
+:?*:e;;::ë
+:?*:i;;::ï
+:?*:u;;::ü
 :?*:o2::ó
 :?*:o 2::o2
 :?*:o  2::o 2
@@ -97,5 +107,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :?*:o  3::o 3
 :?*:o--::ō
 :?*:o==::ô
-!9::Send,{U+2308}
-!0::Send,{U+2309}
+:?*:h..::ḥ
+:?*:h ..::h..
+:?*:h  ..::h ..
