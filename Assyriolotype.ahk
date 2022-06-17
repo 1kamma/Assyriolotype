@@ -31,12 +31,18 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :?*:e2::é
 :?*:u2::ú
 :?*:u3::ù
+:?*:u2::ú
+:?*:u3::ù
+:?*:o2::ó
+:?*:o3::ò
 :?*:a 2::a2
 :?*:a 3::a3
 :?*:e 2::e2
 :?*:e 3::e3
 :?*:i 2::i2
 :?*:i 3::i3
+:?*:o 2::o2
+:?*:o 3::o3
 :?*:u 2::u2
 :?*:u 3::u3
 :?*:a  2::a 2
