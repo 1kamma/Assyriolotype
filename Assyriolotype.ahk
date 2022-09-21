@@ -133,7 +133,15 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :?*:e4o::œ
 :?*:u4e::ᵫ
 :?*:u4o::ꭣ
+:?*:a;e::æ
+:?*:a;o::ꜵ
+:?*:a;u::ꜷ
+:?*:e;o::œ
+:?*:u;e::ᵫ
+:?*:u;o::ꭣ
 :?*:y--::ȳ
 :?*:y==::ŷ
+:?*:h ..::h..
+:?*:h  ..::h ..
 ![::Send,{U+0301}
 !]::Send,{U+0300}
