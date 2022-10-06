@@ -145,3 +145,4 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :?*:h  ..::h ..
 ![::Send,{U+0301}
 !]::Send,{U+0300}
+!-::Send,{U+304}
