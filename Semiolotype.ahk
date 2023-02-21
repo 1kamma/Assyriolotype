@@ -12,6 +12,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :?*:a--::ā
 :?*:a;;::ä
 :?*:a..::ʕ
+:?*:a,,::ˀ
 :?*:a==::â
 :?*:a00::ă
 :?*:a2::á
