@@ -1,52 +1,68 @@
-# Assyriolotype
+# Iranotype
 
-Use Alt+F1 to show this help
+type a== to â
 
-a== For Typing â
+a-- to ā
 
-a-- For Typing ā
+e== to ê
 
-e== For Typing ê
+e-- to ē
 
-e-- For Typing ē
+i== to î
 
-i== For Typing î
+i-- to ī
 
-i-- For Typing ī
+u== to û
 
-u== For Typing û
+u-- to û
 
-u-- For Typing û
+a2 to á
 
-a2 For Typing á
+a3 to à
 
-a3 For Typing à
+e2 to é
 
-e2 For Typing é
+e3 to è
 
-e3 For Typing è
+i2 to í
 
-i2 For Typing í
+i3 to ì
 
-i3 For Typing ì
+u2 to ú
 
-u2 For Typing ú
+u3 to ù
 
-u3 For Typing ù
+t.. to ṭ
 
-t.. For Typing ṭ
+s.. to ṣ
 
-s.. For Typing ṣ
+s== to š
 
-s== For Typing š
+h== to ḫ
 
-h== For Typing ḫ
+Alt+9 to ⸢
 
-Alt+9 For Typing ⸢ (upper square Left Half Brecet)
+Alt+0 to ⸣
 
-Alt+0 For Typing ⸣ (upper square Right Half Brecet)
+g== to ĝ
 
-g== For Typing ĝ
+s==2 to š́
+
+s==.. to ṣ̌
+
+n== to ŋ
+
+a--0 to ā̊
+
+e,, to ə
+
+e,,- to ə̄
+
+t,, to θ
+
+g,, to γ
+
+r00 to r̥
 
 s;s For ß
 
@@ -62,4 +78,4 @@ u;; For ü
 
 Shift Delete to Exit
 
-This Program is what some people at the Hebrew University of Jerusalem in Israel, got, under the name "Akkadian", which created and updated at the 21/10/2018. This is a Free Software, and if you Have Suggestions, Please Contact with me at: benny.saret@mail.huji.ac.il
+This Program is based on what some people at the Hebrew University of Jerusalem in Israel, got, under the name "Akkadian", which created and updated at the 21/10/2018. This is a Free Software, and if you Have Suggestions, Please Contact with me at: benny.saret@mail.huji.ac.il
