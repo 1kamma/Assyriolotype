@@ -1,10 +1,6 @@
-#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
-; #Warn  ; Enable warnings to assist with detecting common errors.
-SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
-SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #SingleInstance Force
 +Delete::ExitApp
-!F1::msgbox,type a== to â`na-- to ā`n`ne== to ê`ne-- to ē`ni== to î`ni-- to ī`nu== to û`nu-- to û`na2 to á`na3 to à`ne2 to é`ne3 to è`ni2 to í`ni3 to ì`nu2 to ú`nu3 to ù`nt.. to ṭ`ns.. to ṣ`ns== to š`nh== to ḫ`nAlt+9 to ⸢`nAlt+0 to ⸣`ng== to ĝ`nAlt+, to ʿ`ns;s to ß`no;; to ö`na;; to ä`ne;; to ë`ni;; to ï`nu;; to ü`nAlt+. to ʾ`nShift Delete to Exit
+!F1::msgbox("type a== to â`na-- to ā`n`ne== to ê`ne-- to ē`ni== to î`ni-- to ī`nu== to û`nu-- to û`na2 to á`na3 to à`ne2 to é`ne3 to è`ni2 to í`ni3 to ì`nu2 to ú`nu3 to ù`nt.. to ṭ`ns.. to ṣ`ns== to š`nh== to ḫ`nAlt+9 to ⸢`nAlt+0 to ⸣`ng== to ĝ`nAlt+, to ʿ`ns;s to ß`no;; to ö`na;; to ä`ne;; to ë`ni;; to ï`nu;; to ü`nAlt+. to ʾ`nShift Delete to Exit")
 :?*:a  2::a 2
 :?*:a  3::a 3
 :?*:a 2::a2
@@ -75,7 +71,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :?*:u2::ú
 :?*:u3::ù
 :?*:z..::ẓ
-!0::Send,{U+2e23}
-!9::Send,{U+2e22}
-!vkBC::Send,{U+02BF}
-!vkBE::Send,{U+02BES}
+:?:.--::{U+2014}
+:?:--::{U+2013}
+!0::send "{U+2e23}"
+!9::send "{U+2e22}"
+!vkBC::send "{U+02BF}"
+!vkBE::send "{U+02BE}"
